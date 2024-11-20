@@ -759,7 +759,7 @@ def main():
                 else:
                     speakandprint("enter your email : \n")
                     email = input()
-                    speakandprint("enter your phone number with your country code\n")
+                    speakandprint("enter your phone number \n")
                     ph_no_2 = input()
                     ph_no_2 = "+91" + ph_no_2
                     bot_game.verify_email(email)

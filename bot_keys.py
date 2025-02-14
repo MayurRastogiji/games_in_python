@@ -1,12 +1,12 @@
 
 # admin details
-account_sid = "AC014295a5e958b71ec7e3c40a15646317"
-auth_token = "5875ff002e63af14f2d819cbcd7d50e2"
-service_sid = "VA5313a3f5e9ddeb6afb440c6a616cfdef"
-sender_number = "+917037386808"
-sender_email = "mayurrastogi2004@gmail.com"
-sender_password = "mctg vwfz udku ojsn"
-name = "Mayur Rastogi"
+account_sid = "Enter your account_sid here"
+auth_token = "Enter your auth_token here"
+service_sid = "Enter your service_sid here"
+sender_number = "Enter your sender_number here"
+sender_email = "Enter your sender_email here"
+sender_password = "Enter your sender_password here"
+name = "Enter your name here"
 
 
 # sql commands

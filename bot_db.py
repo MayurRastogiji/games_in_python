@@ -12,8 +12,8 @@ def speakandprint(str):
 db = mysql.connect(
     host="localhost", 
     user="root", 
-    password="Mayur_Rastogi@491",
-    database= "game")
+    password="Enter Your Password Here",
+    database= "Enter Your Database Name Here")
 # print(db.connection_id)
 
 cursor = db.cursor()
